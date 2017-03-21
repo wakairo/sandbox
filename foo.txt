@@ -1,1 +1,2 @@
-This is Foo.
+foo1
+foo2
