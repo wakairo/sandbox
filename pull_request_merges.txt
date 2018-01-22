@@ -1,2 +1,4 @@
 Practice written in the following URL:
 https://help.github.com/articles/about-pull-request-merges/
+
+Merge-all 0
