@@ -6,3 +6,4 @@ Merge-all 1
 Squash 0
 Squash 1
 Rebase 0
+Rebase 1
