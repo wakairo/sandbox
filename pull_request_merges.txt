@@ -8,3 +8,4 @@ Squash 1
 Rebase 0
 Rebase 1
 Local 0
+Local 1
