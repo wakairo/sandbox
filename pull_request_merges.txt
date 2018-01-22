@@ -4,3 +4,4 @@ https://help.github.com/articles/about-pull-request-merges/
 Merge-all 0
 Merge-all 1
 Squash 0
+Squash 1
