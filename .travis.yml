@@ -4,3 +4,7 @@ script:
 compiler:
   - clang
   - gcc
+env:
+  matrix:
+    - CXXFLAGS=-std=c++03
+    - CXXFLAGS=-std=c++11
